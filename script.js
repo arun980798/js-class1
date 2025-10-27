@@ -1,13 +1,95 @@
+function aleAndprom() {
 
-// alert("it chnage the thngs and mae the new string")
-// let a = prompt("hello   ");
-// let b = a.slice(1, a.length);
-// console.log(b);
+  alert("it chnage the thngs and mae the new string")
+  let a = prompt("hello   ");
+  let b = a.slice(1, a.length);
+  console.log(b);
+
+}
+// aleAndprom()
+function vario() {
+
+  let a;
+  a = 12;
+  console.log(a)
 
 
+  const b = 12;
+  console.info(b);
+}
+// vario()
+function consol() {
 
-// let a ;
-//  a = 12;
-//  console.log(a) 
+  let fruits = ["Apple", "Banana", "Mango", "Orange"];
+
+  let person = {
+    name: "Arun",
+    age: 20,
+    city: "Delhi",
+    isStudent: true
+  };
+
+  let a = "this is not your thing ";
+
+  console.log(a);
+  console.info(a);
+  console.warn(a);
+  console.error(a);
+  console.table(fruits)
+  console.table(person)
 
 
+}
+// consol()
+function astr() {
+  let a = "string  hai ye ";
+  let t = `tamplet litrel ${2 + 3} we can do write js code in the string `;
+  console.info(a)
+  console.info(t)
+
+}
+
+// astr();
+
+
+function afunmethod() {
+  let text = "Hello World JavaScript";
+  // split who saprate words and things from string 
+  {
+    {
+      let words = text.split(" ");
+      console.log(words);
+      // this is saptrate word by the space
+    }
+    {
+      let w2 = text.split("")
+      console.log(w2)
+      // ye single singe words ko saptate kar leta h or space hata deta h 
+    }
+    {
+      let w3 = text.split('o')
+      console.info(w3)
+      // this will split the word by thrir letter 
+
+    }
+  }
+
+  // replace
+  {
+    let r1= text.replace("World","dosto")
+    console.log(r1)
+    // this will cahnge the wold to dosto
+
+  }
+  // include
+  {
+    let i1= text.includes("l")
+    console.log(i1)
+    // this will check this word are present in this or not 
+
+  }
+
+
+}
+
+// afunmethod()
