@@ -97,12 +97,38 @@ function afunmethod() {
 
 
 function taskday3(){
-  alert("hello sir ");
-  prompt("write your name ");
-  let a =  prompt("or batao kay hal");
-  console.log(2+2);
+  // alert("hello sir ");
+  // prompt("write your name ");
+  // let a =  prompt("or batao kay hal");
+  // console.log(2+2);
+
+  // let city = "bhopal"
+  // console.info(city)
+
+  var na = "arun ";
+  let b ="rajput";
+  const  c="mur";
+
+  na="arn";
+  b= "jjjidsdj";
+  // const me possible nai h 
+  // agar const me kare h to vo brakuet ke bhar use nai hoga or dusre koi jhaga use karoge to vo {} inke andar he kam karene nai to bhar error ayega or var me asa nai h vo function ke andar kahi be kam kar dega or re assine be ho jayega 
+  const ownerOfThisWeb= "arun"
+  const valueofpai= "3.14"
+
+  let a = prompt("your namae ")
+  alert(`welcome  ${a}`)
+
+  console.log(typeof(a));
+  console.log(`yourage ${a+5}`);
+  let y ;
+  console.log(y)
+
 
   
+
+
+
 }
 
 taskday3()
