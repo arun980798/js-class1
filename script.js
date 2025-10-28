@@ -93,3 +93,17 @@ function afunmethod() {
 }
 
 // afunmethod()
+
+
+
+function taskday3(){
+  alert("hello sir ");
+  prompt("write your name ");
+  let a =  prompt("or batao kay hal");
+  console.log(2+2);
+
+  
+}
+
+taskday3()
+
