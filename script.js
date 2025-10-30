@@ -154,4 +154,101 @@
 
 
 
-console.log(12%13)
+
+
+
+
+// let a =10;
+
+// a+=3
+// console.log(a)
+
+// console.log(++a)
+// console.log(a)
+
+// console.log(a==="10")
+
+
+// console.log(a>=10)
+
+// if(!true){
+//   console.log("this is right")
+// }
+
+// else{
+//   console.log("this is not right ")
+// }
+
+// (5 > 3 && 10 > 8),
+// true
+// (5 > 3 || 10 < 8)
+// true
+
+
+
+
+{
+// console.log(a);
+// var a= 10
+// undefined
+}
+
+{// console.log(b);
+// let b = 10
+// cant use it beforre initlize
+}
+
+// this will work i dont khow why 
+{
+// test()
+// function test() { console.log("Hello") }
+}
+
+
+
+var hello = function() { console.log("hii") }
+hello
+
+
+{
+// as i think var let const s hoisted but there is ver which give diffrent error like it do not give any error it give only undefine on the other side function are not hoisted fully 
+}
+
+{ 
+//   let age = prompt("giv the age ");
+//  if(age>=18){
+//   console.log("adullt")
+//  }
+//  else{
+//   console.log("child")
+//  }
+}
+
+
+{
+  // let mark = prompt("give the totl")
+  // if(mark>=90){
+  //   console.log("a grade ")
+  // }
+  // else if(mark>=80&&mark<90){
+  //   console.log("b grade")
+  // }
+  // else if(mark>=70&&mark<80){
+  //   console.log("c grade")
+  // }
+  // else{
+  //   console.log("d grade ")
+  // }
+}
+
+
+
+
+let day = prompt("give the number")
+
+switch(day){
+  case 1:
+    console.log("mondy");
+    break;
+  
+}
