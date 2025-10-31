@@ -243,12 +243,14 @@ hello
 
 
 
+{
+// let day = prompt("give the number")
 
-let day = prompt("give the number")
-
-switch(day){
-  case 1:
-    console.log("mondy");
-    break;
+// switch(day){
+//   case 1:
+//     console.log("mondy");
+//     break;
   
+// }
 }
+
