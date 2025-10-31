@@ -125,7 +125,7 @@
 //   console.log(y)
 
 
-  
+
 
 
 
@@ -188,40 +188,40 @@
 
 
 {
-// console.log(a);
-// var a= 10
-// undefined
+  // console.log(a);
+  // var a= 10
+  // undefined
 }
 
 {// console.log(b);
-// let b = 10
-// cant use it beforre initlize
+  // let b = 10
+  // cant use it beforre initlize
 }
 
 // this will work i dont khow why 
 {
-// test()
-// function test() { console.log("Hello") }
+  // test()
+  // function test() { console.log("Hello") }
 }
 
 
 
-var hello = function() { console.log("hii") }
+var hello = function () { console.log("hii") }
 hello
 
 
 {
-// as i think var let const s hoisted but there is ver which give diffrent error like it do not give any error it give only undefine on the other side function are not hoisted fully 
+  // as i think var let const s hoisted but there is ver which give diffrent error like it do not give any error it give only undefine on the other side function are not hoisted fully 
 }
 
-{ 
-//   let age = prompt("giv the age ");
-//  if(age>=18){
-//   console.log("adullt")
-//  }
-//  else{
-//   console.log("child")
-//  }
+{
+  //   let age = prompt("giv the age ");
+  //  if(age>=18){
+  //   console.log("adullt")
+  //  }
+  //  else{
+  //   console.log("child")
+  //  }
 }
 
 
@@ -244,13 +244,13 @@ hello
 
 
 {
-// let day = prompt("give the number")
+  // let day = prompt("give the number")
 
-// switch(day){
-//   case 1:
-//     console.log("mondy");
-//     break;
-  
-// }
+  // switch(day){
+  //   case 1:
+  //     console.log("mondy");
+  //     break;
+
+  // }
 }
 
