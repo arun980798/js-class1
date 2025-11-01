@@ -1,4 +1,5 @@
-// function aleAndprom() {
+{
+  // function aleAndprom() {
 
 //   alert("it chnage the thngs and mae the new string")
 //   let a = prompt("hello   ");
@@ -253,4 +254,41 @@ hello
 
   // }
 }
+
+}
+// class 6 complet in this 
+
+{
+
+  // for 
+  for(let n =0 ; n<10;n++){
+    console.log("helllo")
+  }
+  // basic loop
+
+
+// while
+  let i = 0
+  while(i<5){
+    console.log(i);
+    i++
+  }
+  // variable pur outside the loop and increment inside with code 
+
+  // do while
+  let k=1;
+  do{
+    console.log(`do while ${k}`);
+    k++
+
+  } while(k<10);
+  // do while
+  // in this code  will be ruun at the one time and at any cost then check condition
+
+
+}//loop
+
+
+
+
 
