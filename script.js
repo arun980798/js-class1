@@ -244,51 +244,68 @@ hello
 
 
 
+// // {
+// //   // let day = prompt("give the number")
+
+// //   // switch(day){
+// //   //   case 1:
+// //   //     console.log("mondy");
+// //   //     break;
+
+// //   // }
+// // }
+
+// // }
+// // class 6 complet in this 
+
+// {
+
+//   // for 
+//   for(let n =0 ; n<10;n++){
+//     console.log("helllo")
+//   }
+//   // basic loop
+
+
+// // while
+//   let i = 0
+//   while(i<5){
+//     console.log(i);
+//     i++
+//   }
+//   // variable pur outside the loop and increment inside with code 
+
+//   // do while
+//   let k=1;
+//   do{
+//     console.log(`do while ${k}`);
+//     k++
+
+//   } while(k<10);
+//   // do while
+//   // in this code  will be ruun at the one time and at any cost then check condition
+
+
+// }//loop
+
+
+
+// class33;
+
+
 {
-  // let day = prompt("give the number")
 
-  // switch(day){
-  //   case 1:
-  //     console.log("mondy");
-  //     break;
+ { // question1
+  // for(let i =1;i<11;i++){
+  //   console.log(i)
+  }}
 
-  // }
-}
+  {// p2
+    
 
-}
-// class 6 complet in this 
-
-{
-
-  // for 
-  for(let n =0 ; n<10;n++){
-    console.log("helllo")
   }
-  // basic loop
-
-
-// while
-  let i = 0
-  while(i<5){
-    console.log(i);
-    i++
-  }
-  // variable pur outside the loop and increment inside with code 
-
-  // do while
-  let k=1;
-  do{
-    console.log(`do while ${k}`);
-    k++
-
-  } while(k<10);
-  // do while
-  // in this code  will be ruun at the one time and at any cost then check condition
-
-
-}//loop
 
 
 
-
-
+}
+}
