@@ -1,23 +1,12 @@
-let user = {
-  name: "arunn ",
-  email: "asddf@d.g",
-  asd: function () {
-    console.log("hello")
+class car {
+  constructor (brand , speed){
+    this.brand = brand ;
+    this.speed = speed
+  }
+  drive(){
+  console.log(this.brand ,"  ", this.speed )
   }
 }
 
 
-class usero {
-  constructor(name , email) {
-    this.name = name;
-    this.email = email;
-  }
-  login() {
-    console.log("hello")
-  }
-}
-
-let s = new usero("arun" ,"sdislddlsk");
-let a = new usero("taru","hsfdkf");
-let q = new usero("gopi" ,"sjdlsjdsl");
-let e = new usero("akash" , "dsfkffkf");
+let a  = new car( "kia", "190")
